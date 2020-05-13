@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
-<div align="center" style="display: flex;">
-  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/1.jpg" alt="Logo">
-  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/2.jpg" alt="Logo">
-  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/3.jpg" alt="Logo">
-</div>
+<p align="center">
+  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/1.jpg" alt="Logo" width="250">
+  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/2.jpg" alt="Logo" width="250">
+  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/3.jpg" alt="Logo" width="250">
+</p>
 <p align="center">
   <h3 align="center">Info Site Tower</h3>
 </p>
