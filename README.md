@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
-<p align="center" style="display: inline-block">
-  <img src="src/assets/1.png" alt="Logo">
-  <img src="src/assets/1.png" alt="Logo">
-  <img src="src/assets/1.png" alt="Logo">
-</p>
+<div align="center" style="display: flex;">
+  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/1.jpg" alt="Logo">
+  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/2.jpg" alt="Logo">
+  <img src="https://github.com/LeoGomes0919/info-site-tower/blob/master/src/assets/3.jpg" alt="Logo">
+</div>
 <p align="center">
   <h3 align="center">Info Site Tower</h3>
 </p>
@@ -13,7 +13,7 @@
 ## Tabela de Conteúdo
 
 - [Sobre o Projeto](#sobre-o-projeto)
-  - [Feito Com](#feito-com)
+  - [Feito Com](#feito3com)
 - [Contato](#contato)
 
 <!-- ABOUT THE PROJECT -->
@@ -47,4 +47,4 @@ Abaixo segue o que foi utilizado na criação desta aplicação:
 
 ## Contato
 
-Rocketseat - [Github](https://github.com/LeoGomes0919) - **leonardogs0919@gmail.com**
+Leonardo Gomes - [Github](https://github.com/LeoGomes0919) - **leonardogs0919@gmail.com**
